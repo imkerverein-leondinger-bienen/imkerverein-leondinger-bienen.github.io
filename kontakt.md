@@ -9,7 +9,7 @@ Bei Fragen zum Imkern in Leonding oder zu unserem Verein, wenden Sie sich bitte 
 # Impressum
 
 Imkerverein Leondinger Bienen
-ZVR Zahl:534724741
+ZVR Zahl: 534724741
 
 Gründungsdatum: 23.07.2015
 
