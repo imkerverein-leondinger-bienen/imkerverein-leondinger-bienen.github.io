@@ -13,6 +13,6 @@ ZVR Zahl: 534724741
 
 Gründungsdatum: 23.07.2015
 
-Obmann: Ing. Matthias Bäck
+Obmann: Ing. Matthias Bäck <br/>
 Nordhangweg 22 <br/>
 4060 Leonding
