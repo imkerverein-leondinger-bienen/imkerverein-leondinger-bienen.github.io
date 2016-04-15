@@ -3,7 +3,10 @@
   "name": "imkerverein-leondinger-biene",
   "private": true,
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.2.0"
   },
   "dependencies": {
     "bootstrap": "^3.3.6",
