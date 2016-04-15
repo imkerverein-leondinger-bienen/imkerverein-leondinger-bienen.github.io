@@ -1,5 +1,5 @@
 ---
-layout: content
+layout: main
 ---
 
 Imkerverein Leondinger Bienen

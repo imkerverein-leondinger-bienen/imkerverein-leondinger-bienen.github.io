@@ -7,9 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="{% if page.excerpt %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
     <link rel="stylesheet" href="/styles/vendor.css" />
+    <link rel="stylesheet" href="/styles/app.css" />
 </head>
-<body>{{ content }}
-
+<body>
+    {{ content }}
     <script src="/scripts/vendor.js"></script>
 </body>
 </html>
