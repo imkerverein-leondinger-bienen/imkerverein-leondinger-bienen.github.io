@@ -1,0 +1,8 @@
+---
+layout: content
+---
+
+# Der Verein
+
+...
+
