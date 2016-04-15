@@ -10,4 +10,4 @@ github_username:  leondinger-bienen
 # Build settings
 markdown: kramdown
 
-exclude: ["bin", "bower_components", "jekyll", "node_modules", "obj", "styles/sass/*.*", "typings", "*.json", "app.*", "Gulpfile.js"]
+exclude: ["bin", "bower_components", "jekyll", "node_modules", "obj", "styles/sass/*.*", "typings", "*.json", "app.*", "Gulpfile.js", "*.sln", "gulpfile.js"]
