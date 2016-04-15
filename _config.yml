@@ -1,12 +1,11 @@
 # Site settings
 title: Imkerverein Leondinger Bienen
-email: your-email@domain.com
+email: matthias.baeck@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Die CoderDojo Gemeinschaft organisiert Programmierclubs für Kinder und Jugendliche zwischen 7 und 17 Jahren. Diese Seite ist für die CoderDojos Linz.
+  Der Imkerverein Leondinger Bienen setzt sich für die Förderung der Bienenzucht sowie die Unterstützung und die organisatorische Zusammenfassung seiner Mitglieder ein.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://coderdojo-linz.github.io" # the base hostname & protocol for your site
-twitter_username: CoderDojoLinz
-github_username:  CoderDojo-Linz
+url: "http://www.leondinger-bienen.at" # the base hostname & protocol for your site
+github_username:  leondinger-bienen
 
 # Build settings
 markdown: kramdown
