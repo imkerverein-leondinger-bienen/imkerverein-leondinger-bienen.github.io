@@ -1,0 +1,22 @@
+.banner-image {
+	margin: -19px 0 20px 0;
+	padding: 0;
+
+	width: 100%;
+    height: calc(50vh - 51px);
+    background-image: url("../../images/../../images/banner-image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+@import "menu.scss";
+@import "default.scss";
+.navbar {
+	background-color: #000;
+	border: none;
+	border-radius: 0;
+
+	.navbar-default .navbar-nav > li > a {
+		color: #ffcc00;
+	}
+}
