@@ -11,12 +11,20 @@
 }
 @import "menu.scss";
 @import "default.scss";
-.navbar {
-	background-color: #000;
+.navbar-default {
+	background-color: #333;
 	border: none;
 	border-radius: 0;
+}
 
-	.navbar-default .navbar-nav > li > a {
-		color: #ffcc00;
-	}
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+	color: #fff;
 }
